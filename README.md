@@ -47,10 +47,10 @@ I'm **Owolabi Daniel**, a Nigerian software developer and **B.Sc. Computer Scien
 ## 🧩 Selected Projects
 Here are a few shipped sites for startups & SMEs (logos in the live pages):
 
+- **WorkVite** — https://team-task-manager-p15t.onrender.com/
+- **Customer Review Model** — https://customer-review-model-7t2lzkzmuhxa8vdhqxge2r.streamlit.app/
 - **DCR Auto Electrics** — https://dcr-4tvi.onrender.com/  
 - **Auto Diesel** — https://auto-diesel.onrender.com/  
-- **Slick Mobile Valets & Detailing** — https://svm-heic.onrender.com/  
-- **Darvin Motors** — https://darvin-motors.onrender.com/  
 - **ACC Valets & Detailing** — https://acc-valets-and-detailing.onrender.com/
 
 And my portfolio (React + Tailwind + Express): **https://portfolio-025z.onrender.com/**  
