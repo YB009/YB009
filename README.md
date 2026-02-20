@@ -23,7 +23,7 @@ I'm **Owolabi Daniel**, a Nigerian software developer and **B.Sc. Computer Scien
 - 🧭 I value **clarity over cleverness**, clean abstractions, and **small PRs** with meaningful tests.  
 - ⚙️ Comfortable wiring **auth, email/SMTP, analytics**, and external integrations.  
 - 🚀 Deployed projects to **Render**; thoughtful motion with **Framer Motion** and occasional 3D touches.  
-- 🌐 Portfolio: **https://portfolio-025z.onrender.com/**
+- 🌐 Portfolio: **https://owolabi-portfolio.vercel.app/**
 
 ---
 
@@ -53,7 +53,7 @@ Here are a few shipped sites for startups, SMEs, Saas and AI Projects (logos in 
 - **Auto Diesel** — https://auto-diesel.onrender.com/  
 - **ACC Valets & Detailing** — https://acc-valets-and-detailing.onrender.com/
 
-And my portfolio (React + Tailwind + Express): **https://portfolio-025z.onrender.com/**  
+And my portfolio (React + Tailwind + Express): **https://owolabi-portfolio.vercel.app/**  
 It includes a stationary **3D ring loader**, a draggable **liquid‑glass pill**, smooth reveal animations, a dedicated **resume** page, and an **Express/Nodemailer** contact form.
 
 ---
@@ -73,7 +73,7 @@ It includes a stationary **3D ring loader**, a draggable **liquid‑glass pill**
 
 ## 📫 Contact
 - 📧 **Email:** <a href="mailto:owohdaniel09@gmail.com">owohdaniel09@gmail.com</a>  
-- 🌐 **Portfolio:** <a href="https://portfolio-025z.onrender.com/">portfolio‑025z.onrender.com</a>  
+- 🌐 **Portfolio:** <a href="https://owolabi-portfolio.vercel.app/">Portfolio</a>  
 - 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/daniel-owolabi-8b9651378">daniel‑owolabi‑8b9651378</a>  
 <!-- Prefer not to publish phone numbers on GitHub; add if you want: -->
 <!-- 📱 +234 704 996 1522 -->
