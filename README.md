@@ -47,7 +47,7 @@ I'm **Owolabi Daniel**, a Nigerian software developer and **B.Sc. Computer Scien
 ## 🧩 Selected Projects
 Here are a few shipped sites for startups, SMEs, Saas and AI Projects (logos in the live pages):
 
-- **WorkVite** — https://team-task-manager-p15t.onrender.com/
+- **WorkVite** — https://workvite.vercel.app
 - **Customer Review Model** — https://customer-review-model-7t2lzkzmuhxa8vdhqxge2r.streamlit.app/
 - **DCR Auto Electrics** — https://dcr-4tvi.onrender.com/  
 - **Auto Diesel** — https://auto-diesel.onrender.com/  
