@@ -81,7 +81,7 @@ It includes a stationary **3D ring loader**, a draggable **liquid‑glass pill**
 ---
 
 ## 🤝 Open To
-Frontend or **Full‑Stack** roles where I can ship polished **React/Tailwind** UIs and reliable **Node/Express** APIs at startup speed. Happy to collaborate on open‑source and client projects.
+**Frontend**, **Backend** and **Full‑Stack** roles where I can ship polished **React/Tailwind** UIs and reliable **Node/Express** APIs at startup speed. Happy to collaborate on open‑source and client projects.
 
 ---
 
