@@ -49,7 +49,7 @@ Here are a few shipped sites for startups, SMEs, Saas and AI Projects (logos in 
 
 - **WorkVite** — https://workvite.vercel.app
 - **Customer Review Model** — https://customer-review-model-7t2lzkzmuhxa8vdhqxge2r.streamlit.app/
-- **DCR Auto Electrics** — https://dcr-4tvi.onrender.com/  
+- **DCR Auto Electrics** — https://dcr-auto1.vercel.app/  
 - **Auto Diesel** — https://auto-diesel.onrender.com/  
 - **ACC Valets & Detailing** — https://acc-valets-and-detailing.onrender.com/
 
